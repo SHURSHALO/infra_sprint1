@@ -1,0 +1,5 @@
+IP: 158.160.25.215;
+name_taski: https://panamaxsan.hopto.org/;
+name_kittygram: https://hostik.ddns.net/;
+login: LOL;
+password: 123;
