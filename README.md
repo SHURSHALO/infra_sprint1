@@ -24,7 +24,7 @@ SQL
 Клонирование репозитория
 git@github.com:SHURSHALO/infra_sprint1.git
 
-## Установка бэкенда
+# Установка бэкенда
 
 Перейдите в каталог бэкенда:
 cd infra_sprint1/backend/kittygram_backend
@@ -46,7 +46,7 @@ cd ../frontend
 Установите зависимости фронтенда:
 npm install
 
-## Настройка Nginx
+# Настройка Nginx
 
 Запуск Nginx:
 sudo systemctl start nginx
