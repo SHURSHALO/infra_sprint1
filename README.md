@@ -17,7 +17,6 @@ Python 3.x
 Node.js
 Nginx
 Gunicorn
-SQL
 
 ## Установка
 
